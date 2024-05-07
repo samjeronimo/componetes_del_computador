@@ -1,1 +1,3 @@
-.
+let dom_header = document.querySelector (".header");
+
+dom_header.innerHTML = '<img src="https://static.vecteezy.com/system/resources/thumbnails/009/096/946/small_2x/monitor-screen-computer-with-colorful-rainbow-bubble-illustration-logo-design-vector.jpg" alt="">    <div class="nombres"><div class="nombres2-1"> <nav> <a href="Menú">Menu</a> </nav> </div><div class="nombres2"> <h4>about</h4> </div><div class="nombres2"> <h4>Blog</h4> </div><div class="nombres2"> <h4>Contact</h4> </div> </div>   <div class="btn">Start learning</div>';

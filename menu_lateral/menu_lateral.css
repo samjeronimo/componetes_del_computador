@@ -1,1 +1,37 @@
-.
+.cuadro1 {
+    width: 21rem;
+    height: 35rem;
+    margin: 0px 11.05rem;
+    border: 1px solid black;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.minicuadros {
+    width: 21rem;
+    height: 35rem;
+    border: 1px solid black;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cuadritos {
+   
+}
+
+.botones {
+    width: 9.5rem;
+    height: 3rem;
+    border-radius: 12px;
+    background-color: gray;
+    margin: 1.4rem auto;
+    font-size: 1.5rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

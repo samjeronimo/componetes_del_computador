@@ -1,1 +1,3 @@
-.
+let dam_menu_lateral = document.querySelector (".cuadro1")
+
+dam_menu_lateral.innerHTML = '<div class="minicuadros> <div class="cuadritos"> <div class="botones"> <nav> <a href="cpu">CPU</a> </nav> </div> </div> <div class="cuadritos"> <div class="botones"> <nav> <a href="gpu">GPU</a> </nav> </div> </div> <div class="cuadritos"> <div class="botones"> <nav> <a href="mg">MG</a>  </nav> </div> </div> <div class="cuadritos"> <div class="botones"> <nav> <a href="ram">RAM</a> </nav> </div> </div> <div class="cuadritos"> <div class="botones"> <nav> <a href="ssd">SSD</a> </nav> </div> </div> <div class="cuadritos"> <div class="botones"> <nav> <a href="fuente">FUENTE</a> </nav> </div> </div>';

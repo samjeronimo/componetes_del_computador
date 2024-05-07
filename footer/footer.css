@@ -1,1 +1,22 @@
-.
+.footer {
+    width: 70rem;
+    height: 6.4rem;
+    border: 1px solid black;
+    background-color: cadetblue;
+    margin: 35rem 11.04rem;
+    padding: 0px 17px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.creditos {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.redes {
+    margin: auto;
+}

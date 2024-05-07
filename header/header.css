@@ -1,1 +1,56 @@
-.
+.header {
+    width: 70rem;
+    height: 5rem;
+    margin: auto;
+    border: 1px solid black;
+    padding: 1.8rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header img {
+    width: 4.5rem;
+    height: 4rem;
+}
+
+.nombres {
+    width: 25rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 5.5rem;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.nombres2-1 {
+    height: 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nombres2 {
+    height: 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    width: 10rem;
+    height: 2.5rem;
+    background-color: green;
+    border-radius: 8px;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

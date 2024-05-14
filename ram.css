@@ -8,7 +8,6 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
-    border: 1px solid black;
 }
 
 .q2{
@@ -19,7 +18,7 @@
 .q3{
     width: 24.5rem;
     height: 17.3rem;
-    padding: 1rem 2.5rem;
+    padding: 2.7rem 2.5rem;
 }
 
 .q3 h1 {
@@ -58,7 +57,6 @@
 .q7{
     width: 24.5rem;
     height: 17.5rem;
-    border: 1px solid black;
     padding: 2rem 2.5rem;
 }
 
@@ -67,7 +65,6 @@
 }
 
 .q8{
-    border: 1px solid black;
     width: 24.4rem;
     height: 17.6rem;
     padding: 5rem 2.5rem;

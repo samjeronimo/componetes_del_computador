@@ -7,10 +7,8 @@
 .contenido1 {
     width: 49rem;
     height: 35rem;
-    border: 1px solid black;
     margin: -35rem 26.8rem;
     
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
 }

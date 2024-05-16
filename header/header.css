@@ -10,8 +10,8 @@
 }
 
 .header img {
-    width: 4.5rem;
-    height: 4rem;
+    width: 5.5rem;
+    height: 6rem;
 }
 
 .nombres {
@@ -19,7 +19,7 @@
     height: 2rem;
     display: flex;
     align-items: center;
-    gap: 5.5rem;
+    gap: 5.4rem;
 
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -45,10 +45,10 @@
 .btn {
     width: 10rem;
     height: 2.5rem;
-    background-color: green;
-    border-radius: 8px;
+    background-color: rgb(10, 85, 114);
+    border-radius: 8px; 
     color: white;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 
     display: flex;
     align-items: center;

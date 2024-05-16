@@ -2,7 +2,6 @@
     width: 21rem;
     height: 35rem;
     margin: 0px 5.8rem;
-    border: 1px solid black;
 
     display: grid;
     grid-template-columns: 1fr;
